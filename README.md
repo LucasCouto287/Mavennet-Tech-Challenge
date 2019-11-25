@@ -1,6 +1,8 @@
 # Mavennet-Tech-Challenge
 This is a code challenge created as part of the Mavennet hiring process.
+Drag folder from ZIP file onto desktop and open "Index.html"
 
+Thank you.
 ### UI Design 
 
 ![](https://github.com/nruppatel133/Mavennet-Tech-Challenge/blob/master/assets/img/UI.PNG)
