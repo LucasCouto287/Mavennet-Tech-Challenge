@@ -3,7 +3,7 @@ This is a code challenge created as part of the Mavennet hiring process.
 
 ### UI Design 
 
-
+![](https://github.com/nruppatel133/Mavennet-Tech-Challenge/blob/master/assets/img/UI.PNG)
 
 
 ## Goal:
@@ -37,3 +37,4 @@ https://codemyui.com/elastic-gradient-navigation-tab/
 https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css
 https://www.10bestdesign.com/dirtymarkup/
 https://navnav.co/
+https://www.figma.com/
