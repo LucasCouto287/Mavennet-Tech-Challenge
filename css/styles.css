@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://www.stablecorp.ca/static/media/qcad-logo2.66777509.svg");
+    background-color: #110e0e;
+    }
+    #album {
+        position: fixed;
+        top: 460px;
+        right:20px;
+        }
+        
+        
+    .container {
+        position: absolute;
+        top: 70px;
+        right: 150px;
+        margin:0 auto 0 auto;
+        padding:5px;
+        background: rgba(0, 0, 0, 0.815);; 
+        color: white;
+        }
+
+    #btn {
+    position: fixed;
+    top: 460px;
+    right:20px;
+    }
+    
+    .navbar a {
+    float: left;  
+    position: static;
+    left: 420px;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    }
+    
+    .navbar a:hover {
+    color: rgb(255, 255, 255);
+    }
+ 
